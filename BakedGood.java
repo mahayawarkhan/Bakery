@@ -30,6 +30,11 @@ public class BakedGood
         this.quantity += count;
 
     }
+    //add a new customer to existing customer number
+    public int customers (int newCustomer){
+        int total=0;
+        return total+= newCustomer;
+    }
     //instance method to buy some baked goods
     //takes in an argument,count, for how many of the baked good we are purchasing
     public double purchase (int count){
