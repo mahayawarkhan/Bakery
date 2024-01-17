@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=BakedGood
+comment0.text=\n\ Represents\ our\ collection\ of\ baked\ items\ in\ a\ bakery\n\n\ @author\ (Maha\ Khan)\n\ @version\ (16-01-2024)\n
+comment1.params=name\ recipe\ price\ quantity
+comment1.target=BakedGood(java.lang.String,\ java.lang.String,\ double,\ int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ BakedGood\n
+comment2.params=count
+comment2.target=void\ increaseQuantity(int)
+comment3.params=count
+comment3.target=double\ purchase(int)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
